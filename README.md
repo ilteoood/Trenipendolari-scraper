@@ -1,2 +1,2 @@
-# Trenipendolari-scrapper
-Un semplice (e stupido) scrapper in php per il sito trenipendolari.it
+# Trenipendolari-scraper
+Un semplice (e stupido) web scraper in php per il sito trenipendolari.it
